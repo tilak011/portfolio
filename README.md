@@ -1,2 +1,4 @@
-# portfolio
-Hi , this is my portfolio which i have created using reactjs . i am still working on it .
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
